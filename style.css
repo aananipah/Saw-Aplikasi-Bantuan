@@ -1,0 +1,58 @@
+body{
+    background:rgb(158, 215, 246);
+    font-family: sans-serif;
+    color: white;
+}
+#kotak{
+    width: 520px;
+    height: 350px;
+    background: #fff;
+    margin: 150px auto 100px auto;
+    color:#357dcb;
+}
+#atas{
+    height: 35px;
+    width: 520px;
+    text-align: center;
+    font-size: 15pt;
+    padding-top:20px;
+}
+#bawah{
+    height: 200px;
+    width: 520px;
+   
+}
+.masuk{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    border: 1px solid #336699;
+    padding-left:10px;
+    color:#336699;
+}
+.masuk:focus{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    font-size: 12pt;
+    padding-left:10px;
+    color:#1ABC9C;
+    outline: none;
+    box-shadow: 0 0 5px #336699;
+}
+
+#tombol{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+    margin-left: 60px;
+    background: #336699;
+    border:none;
+    color:#fff;
+    font-size: 14pt;
+    outline:none;
+
+}
